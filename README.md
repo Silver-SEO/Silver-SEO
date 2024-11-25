@@ -1,16 +1,30 @@
-## Hi there 👋
+# GitHub Profil > Alexander Saupe 
+![LinkeIN Profiolbild](https://media.licdn.com/dms/image/v2/D4D03AQEe4dTbawSU_g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1720209278424?e=1738195200&v=beta&t=L2Fmmp-Qs4Dp3fSuzljge-FLTBlVg5enMZdQFhnFWG4)
 
-<!--
-**Silver-SEO/Silver-SEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Link: [LinkedIn Profil](https://www.linkedin.com/in/alexandersaupe/)
 
-Here are some ideas to get you started:
+## DE
+- SEO seit 2007
+- Skills: Keyword-Recherchen, Wettbewerbsanalysen, Content Planung, OnPage Audits, Link Audits und Analyse von Penaltys.
+- Tools: GSC, Sistrix, LRT, KWFinder, Screaming Frog, Ahrefs uvm.
+- Sprachen: Deutsch, Englisch, Portugisisch, HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Über mich
+- 17 Selbständig
+- SEO ist meine Leidenschaft
+
+>  Aktuell lerne ich JS@  🐡-2 :wink: 
+
+
+
+## EN
+- SEO since 2007
+- Skills: keyword research, competitive analysis, content planning, on-page audits, link audits and penalty analysis.
+- Toolstack: GSC, Sistrix, LRT, KWFinder, Screaming Frog, Ahrefs uvm.
+- Languages: German, English, Portuguese, HTML & CSS
+
+### About me
+- 17 years self employed
+- SEO is my passion
+
+>  Learn to code JS@  🐡-2 :wink: at this moment
