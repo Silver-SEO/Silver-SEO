@@ -10,7 +10,6 @@ Link: [LinkedIn Profil](https://www.linkedin.com/in/alexandersaupe/)
 - Sprachen: Deutsch, Englisch, Portugisisch, HTML & CSS
 
 ### Über mich
-- 17 Selbständig
 - SEO ist meine Leidenschaft
 
 >  Aktuell lerne ich JS@  🐡-2 :wink: 
