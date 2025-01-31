@@ -12,9 +12,6 @@ Link: [LinkedIn Profil](https://www.linkedin.com/in/alexandersaupe/)
 ### Über mich
 - SEO ist meine Leidenschaft
 
->  Aktuell lerne ich JS@  🐡-2 :wink: 
-
-
 
 ## EN
 - SEO since 2007
@@ -26,4 +23,3 @@ Link: [LinkedIn Profil](https://www.linkedin.com/in/alexandersaupe/)
 - 17 years self employed
 - SEO is my passion
 
->  Learn to code JS@  🐡-2 :wink: at this moment
