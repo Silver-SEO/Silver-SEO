@@ -1,5 +1,4 @@
 # GitHub Profil > Alexander Saupe 
-![LinkeIN Profiolbild](https://media.licdn.com/dms/image/v2/D4D03AQEe4dTbawSU_g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1720209278424?e=1738195200&v=beta&t=L2Fmmp-Qs4Dp3fSuzljge-FLTBlVg5enMZdQFhnFWG4)
 
 Link: [LinkedIn Profil](https://www.linkedin.com/in/alexandersaupe/)
 
